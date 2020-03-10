@@ -5,6 +5,6 @@ describe('App.vue', () => {
   const wrapper = mount(App)
 
   it('it contains the ButtonCount component', () => {
-    expect(wrapper.html()).toContain('<h3>welcome to button count application</h3>')
+    expect(wrapper.html()).toContain('<h3>Welcome to button count application</h3>')
   })
 })
