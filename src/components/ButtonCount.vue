@@ -2,7 +2,7 @@
   <div>
     <h3>Welcome to button count application</h3>
     <p>Button count is: {{count}}</p>
-    <button @click="changeCount">click</button>
+    <button @click="changeCount">click_</button>
   </div>
 </template>
 
